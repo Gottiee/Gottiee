@@ -11,6 +11,8 @@
 
 <!--Intro start-->
 
+- 42 school graduated
+
 - 🔭 I’m currently working on **C, ASM, PYTHON**
 
 - 🌱 I’m currently learning **Basic PenTest Exploit and Linux Architectur in Detail**
