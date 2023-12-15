@@ -13,13 +13,12 @@
 
 - 42 school graduated
 
-- 🔭 I’m currently working on **C, ASM, PYTHON**
-
-- 🌱 I’m currently learning **Basic PenTest Exploit and Linux Architectur in Detail**
+- 🔭 I’m currently working on **Active Directory/ Web App**
 
 - :video_game: [Root-me Player](https://www.root-me.org/Gottie?lang=en)
 
 - 📝 I regularly update [Hack-Tools cheat sheat](https://github.com/Gottiee/Hack-Tools)
+  
 - 🏦 Looking For a Job Opportunity in CyberSecurity
 
 - 📫 Feel free to reach me out **gottiedev@gmail.com**
