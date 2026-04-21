@@ -62,6 +62,7 @@ Architecture : cache multi-couches (Redis avec TTL dynamique, ISR Next, CDN), SS
 
 Ouvert aux opportunités CDI en sécurité applicative ou développement produit sur stack moderne.
 
+- **Portfolio :** [eliotedy.dev](https://eliotedy.dev)
 - **Email :** eliot@eliotedy.dev 
 - **LinkedIn :** [eliot-edy](https://www.linkedin.com/in/eliot-edy)
 
