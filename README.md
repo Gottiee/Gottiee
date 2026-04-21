@@ -18,6 +18,8 @@
 - Co-fondateur de **Glasck**, plateforme esports League of Legends (Next.js, Fastify, PostgreSQL, Redis)
 - Intéressé par tout ce qui se passe à l'intersection du développement produit et de la sécurité
 
+**Portfolio complet : [eliotedy.dev](https://eliotedy.dev)**
+
 ---
 
 ## 💻 Stack
